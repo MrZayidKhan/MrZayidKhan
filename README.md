@@ -54,7 +54,7 @@ Building practical software, automating workflows, and understanding systems und
 
 ## 🚀 Projects
 
-- **[IbisPanel](https://github.com/MrZayidKhan)**  
+- **[IbisPanel]**  
   A Pterodactyl-inspired game server management panel.
 
 - **AI Agent Security Middleware**  
