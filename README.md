@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Zay!
+# 👋 Hey, I'm <ins>Zayid!</ins>
 
-**BE Computer Science Student • Systems, Web & Cloud Infrastructure**
+<img src="https://media.tenor.com/t3x5p6Qf-Z0AAAAC/developer.gif" width="220" alt="Developer GIF" />
+
+### <p align="center"><code>&lt; Systems, Web &amp; Cloud Infrastructure Builder /&gt;</code></p>
 
 I focus on building practical software, automating workflows, and leveling up my engineering fundamentals every day. No fluff—just shipping code and learning how things work under the hood.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MrZayidKhan&color=9d4edd&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MrZayidKhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrZayidKhan&color=c77dff&style=flat-square&label=PROFILE+VIEWS&background=0d0714)](https://github.com/MrZayidKhan)
 
 </div>
 
@@ -19,95 +21,101 @@ I focus on building practical software, automating workflows, and leveling up my
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>
       <sub><b>C</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
       <sub><b>Java</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>
       <sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>
       <sub><b>CSS3</b></sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 ### ⚡ JavaScript Ecosystem & Backend
 <br>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
       <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>
       <sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
       <sub><b>Node.js</b></sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 ### 🗄️ Databases & DevOps
 <br>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
       <sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
       <sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>
       <sub><b>Kubernetes</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>
       <sub><b>Actions</b></sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 ### 🛠️ Environment & Tools
 <br>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
       <sub><b>VS Code</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Pages" /><br>
       <sub><b>GH Pages</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48" alt="GIMP" /><br>
       <sub><b>GIMP</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" /><br>
       <sub><b>Canva</b></sub>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100" style="border: none; background: transparent;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Clipchamp_icon.svg" width="48" height="48" alt="Clipchamp" /><br>
       <sub><b>Clipchamp</b></sub>
     </td>
