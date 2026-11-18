@@ -6,7 +6,7 @@
 
 I focus on building practical software, automating workflows, and leveling up my engineering fundamentals every day. No fluff—just shipping code and learning how things work under the hood.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MrZayidKhan&color=00d8ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MrZayidKhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrZayidKhan&color=9d4edd&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MrZayidKhan)
 
 </div>
 
@@ -100,15 +100,15 @@ I focus on building practical software, automating workflows, and leveling up my
       <sub><b>GH Pages</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gimp" width="48" height="48" alt="GIMP" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48" alt="GIMP" /><br>
       <sub><b>GIMP</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" /><br>
       <sub><b>Canva</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/clipchamp/00B3E6" width="48" height="48" alt="Clipchamp" /><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Clipchamp_icon.svg" width="48" height="48" alt="Clipchamp" /><br>
       <sub><b>Clipchamp</b></sub>
     </td>
   </tr>
@@ -123,10 +123,10 @@ I focus on building practical software, automating workflows, and leveling up my
 ### 📊 GitHub Analytics
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrZayidKhan&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrZayidKhan&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&bg_color=0d0714&title_color=c77dff&icon_color=ff4d6d&text_color=e0aaff" alt="GitHub Stats" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrZayidKhan&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrZayidKhan&hide_border=true&background=0d0714&ring=c77dff&fire=ff4d6d&currStreakLabel=c77dff&sideLabels=e0aaff&currStreakNum=ffffff&sideNums=ffffff&dates=9d4edd" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZayidKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZayidKhan&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0714&title_color=c77dff&text_color=e0aaff" alt="Top Languages" />
 
 </div>
